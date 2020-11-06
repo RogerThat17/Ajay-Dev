@@ -1,0 +1,128 @@
+body {
+  height: 100px;
+  background-color: #eeeeee;
+}
+
+h2 {
+  font-family: 'Sacramento', cursive;
+  font-size: 60px;
+  color: #5eaaa8;
+}
+
+h3 {
+  font-family: 'Itim', cursive;
+  font-size: 40px;
+  color: #5eaaa8;
+}
+
+.top-container {
+  text-align: center;
+  margin: 100px auto 0 auto;
+}
+
+.mid-container {
+    text-align: center;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+.bottom-container {
+    text-align: center;
+    margin: auto;
+    padding: 20px 20px;
+}
+
+.prof-pic {
+  width: 200px;
+  height: 200px;
+}
+
+a:hover {
+    color: #290001;
+}
+
+.intro {
+    width: 40%;
+    margin: auto;
+    font-family: 'Itim', cursive;
+}
+
+hr {
+    margin-top: 50px;
+    border: dotted #5eaaa8 6px;
+    border-bottom: none;
+    width: 4%;
+}
+
+a {
+    text-decoration: none;
+    color: #0f3057;
+    font-family: 'Itim', cursive;
+}
+
+.web-image {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.devops-image {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.cybsec-image {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: auto;
+    text-align: left;
+    line-height: 2;
+    font-family: 'Itim', cursive;
+    margin-top: 100px;
+}
+
+.contact-me-message {
+    width: 40%;
+    margin: auto;
+    font-family: 'Itim', cursive;
+    margin-bottom: 50px;
+}
+
+
+.btn {
+  background: #11ccd4;
+  background-image: -webkit-linear-gradient(top, #11ccd4, #1199e);
+  background-image: -moz-linear-gradient(top, #11ccd4, #1199e);
+  background-image: -ms-linear-gradient(top, #11ccd4, #1199e);
+  background-image: -o-linear-gradient(top, #11ccd4, #1199e);
+  background-image: linear-gradient(to bottom, #11ccd4, #1199e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.cnt-me-links {
+    color: #0f3057;
+    margin: 10px 10px;
+}
