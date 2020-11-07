@@ -1,6 +1,6 @@
 body {
   height: 100px;
-  background-color: #eeeeee;
+  background-color: #202124;
 }
 
 h2 {
@@ -38,7 +38,7 @@ h3 {
 }
 
 a:hover {
-    color: #290001;
+    color: #f4f4f2;
 }
 
 .intro {
@@ -56,7 +56,7 @@ hr {
 
 a {
     text-decoration: none;
-    color: #0f3057;
+    color: #006a71;
     font-family: 'Itim', cursive;
 }
 
@@ -123,6 +123,14 @@ a {
 }
 
 .cnt-me-links {
-    color: #0f3057;
+    color: #006a71;
     margin: 10px 10px;
+}
+
+p {
+    color: white;
+}
+
+h4 {
+    color: white;
 }
