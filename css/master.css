@@ -102,8 +102,8 @@ a {
   background-image: -ms-linear-gradient(top, #11ccd4, #1199e);
   background-image: -o-linear-gradient(top, #11ccd4, #1199e);
   background-image: linear-gradient(to bottom, #11ccd4, #1199e);
-  -webkit-border-radius: 8;
-  -moz-border-radius: 8;
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
   border-radius: 28px;
   font-family: Arial;
   color: #ffffff;
